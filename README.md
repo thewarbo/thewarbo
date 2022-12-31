@@ -5,9 +5,6 @@ where I wrote it. (And that company wasn't actually a software company!) Here I'
 few repositories where I'm trying out new languages and new frameworks (or, in the case of
 PHP, a language I haven't used in a long time).
 
-My current toy project is a Family Feud clone that I started writing while watching the 
-game show segments on the 2021 [Desert Bus for Hope](https://desertbus.org) charity run, 
-although that's been mostly put on hold while I've been doing the 
-[Advent of Code](https://adventofcode.com/) daily challenges and finally gotten enough 
-Angular under my belt to submit a few pull requests to the FFXIV tool
-[Teamcraft](https://github.com/ffxiv-teamcraft/ffxiv-teamcraft) that I use in my downtime.
+Currently I'm mostly working on the Big Easy Budget Game repo after showing up to a Code
+for New Orleans meeting; I'm always a fan of grabbing and old codebase and poking around 
+its innards until I can get it working again.
